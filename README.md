@@ -15,6 +15,7 @@ to transition into cloud engineering with a focus on healthcare and biotech clie
 | 4 | Static Website Hosting on S3 | S3, Bucket Policies, HTML |
 | 5 | Connect S3 to EC2 | IAM Roles, AWS CLI, S3 |
 | 6 | Cloud Database Setup with RDS | RDS, MySQL, VPC, EC2 |
+| 7 | Auto Scaling & Load Balancing | EC2 Auto Scaling, ALB, Launch Templates |
 
 ## Certifications In Progress
 - AWS Cloud Practitioner
